@@ -15,3 +15,12 @@ Can certain learning style cause a learner to be more engaged and thus complete 
 The data file lecture3.csv contains:
 
 6 variables for 49,909 learners on the online learning platform Coursera. 
+
+## Ferraro and Price (2013): 
+Estimate treatment effects reported in Ferraro and Price (2013) on water consumption in summer months. 
+
+1. Does treatment effect persist overtime? 
+2. Are there heterogeneous treatment effects? If so, by which observable?
+
+Each row in the dataset "assignment2.csv" represents one household in the experiment. 
+
